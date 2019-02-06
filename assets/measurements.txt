@@ -1,0 +1,15 @@
+siteContainer - width: 1100
+
+.logo - 180px x 180px
+
+.title - 600px x 50px
+
+.nav - 440px x 50px
+
+.heading - 187px x 37px
+
+.paragraph - 653px x 307px
+
+.image1, .image2, .image3 - 201px x 192px
+
+.paragraph2 - 626px x 286px
